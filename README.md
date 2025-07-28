@@ -28,7 +28,7 @@ I’m passionate about applying the precision and structure of engineering to ab
 ### 📈 Current Focus
 
 - 📚 Deepening my knowledge of **quantitative finance**, **statistical modeling**, and **Time-series Analysis**
-- 🧠 Learning **machine learning** and its applications to high-dimensional data
+- 🧠 Learning **physics informed machine learning** and its applications to fluid mechanics and options pricing 
 - 🧪 Building projects that merge **mechanical simulation** and **financial analysis**
 
 ---

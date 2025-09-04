@@ -33,10 +33,11 @@ I’m passionate about applying the precision and structure of engineering to ab
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
-- **Aerodynamic simulation** –  Developed a custom fluid mechanics simulation tool specifically designed to optimize the shape and structure of an aquatic propeller blade. The goal was to maximize thrust, minimize drag, and ensure structural integrity under high-stress conditions.
-Utilized differential equations, advanced numerical root-finding methods, and the powerful Blade Element Momentum (BEM) theory to model and refine performance across varying flow regimes. 
+- **Aerodynamic Simulation** – Developed a custom fluid mechanics tool to optimize aquatic propeller blades. Focused on maximizing thrust, minimizing drag, and ensuring structural integrity under high-stress conditions. Leveraged differential equations, advanced numerical root-finding methods, and Blade Element Momentum (BEM) theory to model performance across varying flow regimes.
+
+- **Pairs Trading with GARCH & Cointegration** – Built a quantitative pairs trading strategy in Python, combining statistical finance and portfolio management: identified mean-reverting stock pairs using **cointegration**, forecasted short-term volatility with **GARCH**, and simulated trades including position sizing, realized/unrealized P&L, slippage, and commissions. Features **interactive visualizations** of spreads, z-scores, and predicted vs realized volatility, with **live data integration** through the Alpaca API. Built using **pandas, NumPy, statsmodels, arch, and Streamlit**.
 
 ---
 
